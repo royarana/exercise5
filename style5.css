@@ -1,0 +1,19 @@
+/*General CSS*/
+body {
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Just Another Hand', cursive;
+
+
+.navbar {
+	background-color: blue;
+
+}
+.carousel {
+	display: flex;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 100px
+}
